@@ -14,6 +14,7 @@ Interactive Visuals: A blend of polygon rendering, shading, and blending techniq
 Technologies Used:
 OpenGL: For rendering 2D and 3D graphics.
 C++: For logic and implementation of the visual elements.
+
 Screenshots
 ![Screenshot (60)](https://github.com/user-attachments/assets/f0a00afc-26aa-4354-bf14-e45632ec90a5)
 ![Screenshot (59)](https://github.com/user-attachments/assets/8a8c996d-37be-4f01-afc0-549b72706b28)
