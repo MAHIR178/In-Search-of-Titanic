@@ -30,7 +30,8 @@ OpenGL: For rendering 2D and 3D graphics.
 
 C++: For logic and implementation of the visual elements.
 
-Screenshots
+Screenshots:
+
 1st scene(Day mode)
 ![Screenshot (57)](https://github.com/user-attachments/assets/06a80002-8a1d-45a3-9f71-4c903811dc93)
 
