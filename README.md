@@ -1,5 +1,5 @@
 # In-Search-of-Titanic
-This is a computer graphics project created as part of the Computer Graphics course (Section H). The project takes users on a visually immersive journey through three captivating scenarios:
+This is a computer graphics project created as part of the Computer Graphics course . The project takes users on a visually immersive journey through three captivating scenarios:
 
 Scenarios:
 
