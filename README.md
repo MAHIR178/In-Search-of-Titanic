@@ -16,8 +16,19 @@ OpenGL: For rendering 2D and 3D graphics.
 C++: For logic and implementation of the visual elements.
 
 Screenshots
-![Screenshot (60)](https://github.com/user-attachments/assets/f0a00afc-26aa-4354-bf14-e45632ec90a5)
-![Screenshot (59)](https://github.com/user-attachments/assets/8a8c996d-37be-4f01-afc0-549b72706b28)
-![Screenshot (58)](https://github.com/user-attachments/assets/a8b092b7-f0f7-4807-8d11-8e9fb511eeec)
-![Screenshot (57)](https://github.com/user-attachments/assets/57a8b74b-5df7-4b48-8951-913e73aca4ab)
+1st scene(Day mode)
+![Screenshot (57)](https://github.com/user-attachments/assets/06a80002-8a1d-45a3-9f71-4c903811dc93)
+
+1st scene(Night mode)
+![Screenshot (58)](https://github.com/user-attachments/assets/948abbfa-f6cc-46ab-bfd0-97053db8d74d)
+
+2nd scene
+![Screenshot (59)](https://github.com/user-attachments/assets/cabd67e8-2de0-4566-8af4-ea365896b5c4)
+
+3rd scene
+![Screenshot (60)](https://github.com/user-attachments/assets/3cf93609-15d0-4cc2-88ef-54672d35931b)
+
+
+
+
 
