@@ -47,11 +47,16 @@ Pressing 3 switches to Scene 3.
 Scene 1 Controls:
 
 Keys: d, D, g, G, Esc
+
 Function: keyboardScene1
+
 Purpose: Control day/night mode, submarine movement, and exit the program.
 Details:
+
 d or D: Toggle day/night mode.
+
 g or G: Start moving the submarine to the right.
+
 Esc: Exit the program.
 
 Scene 2 Controls:
