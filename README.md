@@ -41,7 +41,9 @@ Purpose: Switch between different scenes.
 Details:
 
 Pressing 1 switches to Scene 1.
+
 Pressing 2 switches to Scene 2.
+
 Pressing 3 switches to Scene 3.
 
 Scene 1 Controls:
@@ -68,22 +70,34 @@ Function: keyboardScene2
 Purpose: Control submarine movement and speed.
 
 Details:
+
 w: Move the submarine up.
+
 s: Move the submarine down.
+
 a: Move the submarine left.
+
 g: Move the submarine right.
+
 Spacebar: Stop the submarine.
+
 Enter: Start the submarine movement.
+
 Scene 3 Controls:
 
 Keys: w, s, a, g, Spacebar, Enter
+
 Function: keyboardScene3
+
 Purpose: Control submarine movement and speed.
 
 Details:
 w: Move the submarine up.
+
 s: Move the submarine down.
+
 a: Move the submarine left.
+
 g: Move the submarine right.
 
 Spacebar: Stop the submarine.
